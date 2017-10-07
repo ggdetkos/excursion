@@ -1,0 +1,18 @@
+/* Default CSS for Codecademy Excursion Project*/
+
+body {
+  color: #FFFFFF;
+  background-color: #000000;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;    
+}
+
+.linkDownload {
+  color: aquamarine;
+  font-size: 16px;
+}
